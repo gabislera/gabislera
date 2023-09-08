@@ -1,7 +1,8 @@
 ### Hi there 👋
+<img align="right" width="360em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabislera&layout=compact&langs_count=7&theme=dracula"/>
+
 Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonada por inovação, jogos e tecnologia. 
 
-<img align="right" width="360em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabislera&layout=compact&langs_count=7&theme=dracula"/>
 
 
 <!-- <div align="right">
