@@ -1,9 +1,9 @@
 ### Hi there 👋
 Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonada por inovação, jogos e tecnologia. 
 
-<div align="right">
-  <img align="right" width="360em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabislera&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+<img align="right" width="360em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabislera&layout=compact&langs_count=7&theme=dracula"/>
+
+
 <!-- <div align="right">
   <img align="right" width="360em" src="https://github-readme-stats.vercel.app/api?username=gabislera&hide=issues&show_icons=true&theme=dracula"/>
 </div> -->
