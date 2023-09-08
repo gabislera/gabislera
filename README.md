@@ -3,6 +3,13 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonada por inovaç�
 
 Sou uma pessoa que não tem medo de novos desafios e está sempre aberta para eles, interessada em projetos que possam aprimorar o meu conhecimento e contribuir para o meu desenvolvimento pessoal e profissional. Eu me adapto fácil à novas ferramentas e estou em constante aprendizado, tentando sempre acompanhar as demandas em constante evolução da área.
 
+<div align="right">
+  <img align="right" width="360em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabislera&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+<!-- <div align="right">
+  <img align="right" width="360em" src="https://github-readme-stats.vercel.app/api?username=gabislera&hide=issues&show_icons=true&theme=dracula"/>
+</div> -->
+
 ### Tech Stack 💻
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
