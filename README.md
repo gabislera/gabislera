@@ -1,19 +1,16 @@
 ### Hi there 👋
 <img align="right" width="360em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabislera&layout=compact&langs_count=7&theme=dracula"/>
 
-Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonada por inovação, jogos e tecnologia. 
+Estudante de Análise e Desenvolvimento de Sistemas e Desenvolvedora Front-End focada em JavaScript, TypeScript, ReactJS e Tailwind CSS
 
 
+Sou uma pessoa que não tem medo de novos desafios e está sempre aberta para eles, interessada em projetos que possam aprimorar o meu conhecimento e contribuir para o meu desenvolvimento pessoal e profissional. 
+Eu me adapto fácil à novas ferramentas e estou em constante aprendizado, tentando sempre acompanhar as demandas em constante evolução da área tecnológica.
 
-<!-- <div align="right">
-  <img align="right" width="360em" src="https://github-readme-stats.vercel.app/api?username=gabislera&hide=issues&show_icons=true&theme=dracula"/>
-</div> -->
-
-Sou uma pessoa que não tem medo de novos desafios e está sempre aberta para eles, interessada em projetos que possam aprimorar o meu conhecimento e contribuir para o meu desenvolvimento pessoal e profissional. Eu me adapto fácil à novas ferramentas e estou em constante aprendizado, tentando sempre acompanhar as demandas em constante evolução da área.
+Conheça um pouco do meu trabalho acessando meu portfolio: https://im-gabi.vercel.app/
 
 
-
-### Tech Stack 💻
+### Stack 💻
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -25,5 +22,6 @@ Sou uma pessoa que não tem medo de novos desafios e está sempre aberta para el
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 
