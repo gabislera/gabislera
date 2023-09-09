@@ -25,3 +25,5 @@ Conheça um pouco dos meus projetos em meu [portfolio](https://im-gabi.vercel.ap
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 
+
+<img src="https://streak-stats.demolab.com?user=gabislera&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
