@@ -7,7 +7,7 @@ Estudante de Análise e Desenvolvimento de Sistemas e Desenvolvedora Front-End f
 Sou uma pessoa que não tem medo de novos desafios e está sempre aberta para eles, interessada em projetos que possam aprimorar o meu conhecimento e contribuir para o meu desenvolvimento pessoal e profissional. 
 Eu me adapto fácil à novas ferramentas e estou em constante aprendizado, tentando sempre acompanhar as demandas em constante evolução da área tecnológica.
 
-Conheça um pouco do meu trabalho acessando meu portfolio: https://im-gabi.vercel.app/
+Conheça um pouco dos meus projetos em meu [portfolio](https://im-gabi.vercel.app/) :)
 
 
 ### Stack 💻
