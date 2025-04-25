@@ -1,13 +1,14 @@
 ### Hi there 👋
 <img align="right" width="360em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabislera&layout=compact&langs_count=7&theme=dracula"/>
 
-Estudante de Análise e Desenvolvimento de Sistemas e Desenvolvedora Front-End focada em JavaScript, TypeScript, ReactJS e Tailwind CSS
+Sou Gabriela Carniel — desenvolvedora fullstack com foco em front-end e paixão por criar experiências digitais que fazem sentido de verdade.
 
+Atualmente trabalho com JavaScript, TypeScript, ReactJS e Node.js, construindo interfaces leves, acessíveis e bem pensadas. Tenho interesse especial por projetos que desafiem minha lógica, ampliem minha visão de produto e me conectem com boas práticas de UX e performance.
 
-Sou uma pessoa que não tem medo de novos desafios e está sempre aberta para eles, interessada em projetos que possam aprimorar o meu conhecimento e contribuir para o meu desenvolvimento pessoal e profissional. 
-Eu me adapto fácil à novas ferramentas e estou em constante aprendizado, tentando sempre acompanhar as demandas em constante evolução da área tecnológica.
+Me adapto rápido a novas ferramentas e estou sempre em movimento — estudando, testando ideias e buscando maneiras de escrever código mais limpo e intencional.
 
-Conheça um pouco dos meus projetos em meu [portfolio](https://im-gabi.vercel.app/) :)
+Quer ver isso tudo na prática? Dá uma olhada no meu [portfólio](https://im-gabi.vercel.app/) 🚀
+
 
 
 ### Stack 💻
