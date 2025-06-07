@@ -5,8 +5,6 @@ Sou Gabriela Carniel — desenvolvedora fullstack com foco em front-end e paixã
 
 Atualmente trabalho com JavaScript, TypeScript, ReactJS e Node.js, construindo interfaces leves, acessíveis e bem pensadas. Tenho interesse especial por projetos que desafiem minha lógica, ampliem minha visão de produto e me conectem com boas práticas de UX e performance.
 
-Me adapto rápido a novas ferramentas e estou sempre em movimento — estudando, testando ideias e buscando maneiras de escrever código mais limpo e intencional.
-
 Quer ver isso tudo na prática? Dá uma olhada no meu [portfólio](https://im-gabi.vercel.app/) 🚀
 
 
